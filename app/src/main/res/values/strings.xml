@@ -2,6 +2,6 @@
     <string name="app_name">MyNotesApp</string>
     <string name="title">Title</string>
     <string name="description">Description</string>
-    <string name="save">Simpaen</string>
+    <string name="save">Simpan</string>
     <string name="delete">Delete</string>
 </resources>
