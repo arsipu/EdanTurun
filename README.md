@@ -1,2 +1,0 @@
-# arsipu
-Arsipu Repository
